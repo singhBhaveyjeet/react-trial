@@ -1,11 +1,12 @@
-import card from "./components/card"
+import Card from "./components/Card";
+
 const App = () => {
   return (
-    <>
+    
       <div>
-        <card />
+        <Card />
       </div>
-    </>
+    
   )
 }
 
