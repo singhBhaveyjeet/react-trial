@@ -1,12 +1,12 @@
+import card from "./components/card"
 const App = () => {
   return (
     <>
       <div>
-        <h1>hello</h1>
-        <h2>ji</h2>
+        <card />
       </div>
     </>
   )
 }
 
-export default App
+export default App;
